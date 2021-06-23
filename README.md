@@ -1,2 +1,2 @@
 # app react e node
- consumindo um back-end node
+ criando um app React consumindo um back-end Node com Express
